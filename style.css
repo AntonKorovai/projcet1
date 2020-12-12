@@ -1,0 +1,33 @@
+  #Wooden_Background {
+    background-image: url("Wooden_Background1.png");
+    opacity: 0.988;
+    position: absolute;
+    left: -71px;
+    top: 0px;
+    width: 1700px;
+    height: 496px;
+    z-index: 9;
+  }
+  
+  #Background {
+    background-image: url("Background.png");
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1700px;
+    height: 2390px;
+    z-index: 2;
+  }
+  
+  #Wooden_Background1 {
+    background-image: url("Wooden_Background1.png");
+    position: absolute;
+    left: -67px;
+    top: 1909px;
+    width: 1700px;
+    height: 484px;
+    z-index: 4;
+    transform: scale(1, -1);
+    
+  }
+  
